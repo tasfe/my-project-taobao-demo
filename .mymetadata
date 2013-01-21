@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="my-project-taobao-demo"
+  id="myeclipse.1357785632812"
+  context-root="/ROOT"
+  j2ee-spec="5.0"
+  archive="my-project-taobao-demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
